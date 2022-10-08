@@ -12,3 +12,9 @@ p {
   max-width: 1200px;
   margin: 0 auto;
 }
+
+.logo {
+  margin-left: auto;
+  margin-right: auto;
+  width: 337px;
+}
